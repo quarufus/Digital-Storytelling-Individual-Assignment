@@ -1,9 +1,9 @@
 # Lesson: Digital Storytelling
 
-### First and Last Name: xxx
-### University Registration Number: dpsdxxxxx
-### GitHub Personal Profile: xxx
-### Digital-Storytelling-Individual-Assignment: xxx
+### First and Last Name: Timon Akira Pelster
+### University Registration Number: dpsd17085
+### GitHub Personal Profile: https://github.com/quarufus
+### Digital-Storytelling-Individual-Assignment: https://github.com/quarufus/Digital-Storytelling-Individual-Assignment
 
 # Introduction
 
@@ -14,6 +14,11 @@
 
 # 1st Deliverable
 
+## Unit2
+
+## Unit3
+
+## Unit4
 
 # 2nd Deliverable
 
