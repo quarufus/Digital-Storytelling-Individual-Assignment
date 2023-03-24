@@ -20,6 +20,9 @@
 ![city](https://github.com/quarufus/Digital-Storytelling-Individual-Assignment/blob/main/dailies/Deliverable1/Unit2/Screenshot%20(4).png)
 
 ## Unit3
+Για αυτό Unit δημιούργησα τρία αντικείμενα με το Pro Builder και δύο με το Blender. Τα πρώτα τρία είναι ένα φανάρι, ένας πυροσβεστικός κρούνος και κολωνάκια ενώ στο Blender έφτιαξα μια ταμπέλα όπως αυτές που έχουν τα μαγαζιά και έναν φουτουριστικό φωτινό πίνακα. Το φανάρι το έβαλα στη στροφή του δρόμου για να ελέγχει την κυκλοφορία, την ταμπέλα μπροστά από ένα μαγαζί και τον κρούνο πάνω στο πεζοδρόμιο. Για τα κολωνάκια και τον πίνακα έκανα μια γρήγορη επέκταση της πόλης από την άλλη μεριά του δρόμου ώστε να φαίνονται ενταγμένα. Τα κολωνάκια χωριζουν τον δρόμο στη μέση και η πινακίδα χρησιμεύει στην προβολή διαφημίσεων στους αδηγο
+
+![city](https://github.com/quarufus/Digital-Storytelling-Individual-Assignment/blob/main/dailies/Deliverable1/Unit3/Screenshot%20(5).png)
 
 ## Unit4
 
