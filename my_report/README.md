@@ -44,5 +44,5 @@
 
 
 # Sources
-https://learn.unity.com/course/real-time-animated-storytelling?uv=2019.4
-https://www.mixamo.com/#/
+- https://learn.unity.com/course/real-time-animated-storytelling?uv=2019.4
+- https://www.mixamo.com/#/
