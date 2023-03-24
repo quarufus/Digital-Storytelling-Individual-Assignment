@@ -29,9 +29,9 @@
 
 
 ## Unit4
-Εδώ δημιούργησα ένα Timeline: CCMasterTimeline και κίνησα τρείς χαρακτήρες (ανθρώπους) και δύο οχήματα. Τα οχήματα κινούνται στο δρόμο κάθετα μεταξύ τους αλλά αντί να σταματήσει το ένα για να περάσει το άλλο, απροσδόκητα, το ένα αρχίζει να πετάει και τέλος χάνεται στον ορίζοντα της πόλης. Για τους χαρακτήρες χρησιμοποίησα δύο μοντέλα που υπήρχαν στο Unit και ένα μοντέλο που κατέβασα από το Asset Store. Animations προμηθευτικα από την υπηρεσία mixamo της Adobe.
+Εδώ δημιούργησα ένα Timeline: CCMasterTimeline και κίνησα τρείς χαρακτήρες (ανθρώπους) και δύο οχήματα. Τα οχήματα κινούνται στο δρόμο κάθετα μεταξύ τους αλλά αντί να σταματήσει το ένα για να περάσει το άλλο, απροσδόκητα, το ένα αρχίζει να πετάει και τέλος χάνεται στον ορίζοντα της πόλης. Για τους χαρακτήρες χρησιμοποίησα δύο μοντέλα που υπήρχαν στο Unit και ένα μοντέλο που κατέβασα από το Asset Store. Animations προμηθευτικα από την υπηρεσία mixamo της Adobe. Ένας τουρίστας περπατάει στο πεζοδρόμιο και κατευθνεται
 
-![city](https://github.com/quarufus/Digital-Storytelling-Individual-Assignment/blob/main/dailies/Deliverable1/Unit4/Screenshot%20(9).png)
+![city](https://github.com/quarufus/Digital-Storytelling-Individual-Assignment/blob/main/dailies/Deliverable1/Unit4/Screenshot%20(10).png)
 
 # 2nd Deliverable
 
@@ -43,3 +43,5 @@
 
 
 # Sources
+https://learn.unity.com/course/real-time-animated-storytelling?uv=2019.4
+https://www.mixamo.com/#/
