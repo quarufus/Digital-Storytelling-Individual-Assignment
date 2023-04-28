@@ -36,6 +36,17 @@
 
 # 2nd Deliverable
 
+## Unit5
+
+https://user-images.githubusercontent.com/93532038/235164185-5b932ac6-c078-4c7f-a3e9-a0af76e71fde.mp4
+
+## Unit6
+
+https://user-images.githubusercontent.com/93532038/235164373-abad5041-a60c-4ebf-8eda-ebf878e4b1cd.mp4
+
+## Unit7
+
+https://user-images.githubusercontent.com/93532038/235164422-24fdcb35-2dac-4742-a5b9-3f70cb1f28f6.mp4
 
 # 3rd Deliverable 
 
