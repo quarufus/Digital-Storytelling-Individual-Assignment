@@ -38,15 +38,21 @@
 
 ## Unit5
 
+Διωρθόνοντας τη προηγούμενη δουλιά μου αντικατέστησα την προυπάρχουσα πόλη με αυτήν που έφτιαξα, προσθέτοντας κάποια κτήρια με λεπτομέριες που μοντελοποίησα. Κινηματογράφησα μία σκηνή με τη χρήση πέντε καμερών. Αρκετές από αυτές κινούνται και έχω βάλει δύο transitions. Τέλος επειδή χρειάστηκε να αλλάξω την άλλαξα και τα animations.
+
 [CC_001.webm](https://user-images.githubusercontent.com/93532038/235166290-f81af771-8bad-47c0-ba77-31b9d4eaefa1.webm)
 
 ## Unit6
+
+Συνέχισα προσθέτοντας προσθέτοντας φώτα στα κτήρια και στα φανάρια των αυτοκινήτων. Στη συνέχεια έβαλα ομίχλη και άλλα φίλτρα πετυχαίνοντας μία χρωματική παλέτα που εκπνέει μυστήριο και θυμίζει άλλο κόσμο. Επίσης άλλαξα τις ρυθμίσεις μιας κάμερας , συγκεκριμένα το βάθος πεδίου.
 
 ![Unit6 unity](https://github.com/quarufus/Digital-Storytelling-Individual-Assignment/blob/main/dailies/Deliverable2/Unit6/Screenshot%20(16).png)
 
 [CC_002.webm](https://user-images.githubusercontent.com/93532038/235166660-c5dbe942-7f07-4fd8-8517-4e8f82745b2a.webm)
 
 ## Unit7
+
+particle system VFX ήχοι και κόρνα αμαξιών μουσική
 
 ![Unit7 unity](https://github.com/quarufus/Digital-Storytelling-Individual-Assignment/blob/main/dailies/Deliverable2/Unit7/Screenshot%20(17).png)
 
