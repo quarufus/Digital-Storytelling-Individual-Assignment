@@ -42,11 +42,11 @@
 
 ## Unit6
 
-https://user-images.githubusercontent.com/93532038/235164373-abad5041-a60c-4ebf-8eda-ebf878e4b1cd.mp4
+[CC_002.webm](https://user-images.githubusercontent.com/93532038/235166660-c5dbe942-7f07-4fd8-8517-4e8f82745b2a.webm)
 
 ## Unit7
 
-https://user-images.githubusercontent.com/93532038/235164422-24fdcb35-2dac-4742-a5b9-3f70cb1f28f6.mp4
+[CC_004.webm](https://user-images.githubusercontent.com/93532038/235166762-56619259-50c5-4b19-a813-e31b0652daac.webm)
 
 # 3rd Deliverable 
 
