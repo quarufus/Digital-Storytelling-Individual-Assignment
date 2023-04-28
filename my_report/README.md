@@ -42,13 +42,13 @@
 
 ## Unit6
 
-https://github.com/quarufus/Digital-Storytelling-Individual-Assignment/blob/main/dailies/Deliverable2/Unit6/Screenshot%20(16).png
+![Unit6 unity](https://github.com/quarufus/Digital-Storytelling-Individual-Assignment/blob/main/dailies/Deliverable2/Unit6/Screenshot%20(16).png)
 
 [CC_002.webm](https://user-images.githubusercontent.com/93532038/235166660-c5dbe942-7f07-4fd8-8517-4e8f82745b2a.webm)
 
 ## Unit7
 
-https://github.com/quarufus/Digital-Storytelling-Individual-Assignment/blob/main/dailies/Deliverable2/Unit7/Screenshot%20(17).png
+![Unit7 unity](https://github.com/quarufus/Digital-Storytelling-Individual-Assignment/blob/main/dailies/Deliverable2/Unit7/Screenshot%20(17).png)
 
 [CC_004.webm](https://user-images.githubusercontent.com/93532038/235166762-56619259-50c5-4b19-a813-e31b0652daac.webm)
 
