@@ -52,7 +52,7 @@
 
 ## Unit7
 
-particle system VFX ήχοι και κόρνα αμαξιών μουσική
+Εδώ δημιούργησα δύο particle systems για να προσθέσω καπνό στη σκηνή μου. Ο καπνός εμφανίζεται στις οροφές δύο κτηρίων. Ακόμα έφτιαξα VFX που φαίνεται να βγαίνουν από το κεφάλι της πρωταγωνίστριας στη τελευταία λήψη. Τέλος προσέθεσα ήχους και κόρνα αμαξιών για να γίνει πιο αληθινή και πιστευτή η ταινιούλα και μουσική που παίζει καθ' όλη τη διάρκεια.
 
 ![Unit7 unity](https://github.com/quarufus/Digital-Storytelling-Individual-Assignment/blob/main/dailies/Deliverable2/Unit7/Screenshot%20(17).png)
 
