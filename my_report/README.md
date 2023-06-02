@@ -65,6 +65,13 @@
 ![](https://github.com/quarufus/Digital-Storytelling-Individual-Assignment/blob/main/dailies/Deliverable3/Screenshot%202023-06-02%20091529.png)
 ![](https://github.com/quarufus/Digital-Storytelling-Individual-Assignment/blob/main/dailies/Deliverable3/Screenshot%202023-06-02%20091617.png)
 ![](https://github.com/quarufus/Digital-Storytelling-Individual-Assignment/blob/main/dailies/Deliverable3/Screenshot%202023-06-02%20091703.png)
+![](https://github.com/quarufus/Digital-Storytelling-Individual-Assignment/blob/main/dailies/Deliverable3/Screenshot%202023-06-02%20091742.png)
+
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](https://github.com/quarufus/Digital-Storytelling-Individual-Assignment/blob/main/dailies/Deliverable3/Screenshot%202023-06-02%20092305.png)  |  ![](https://github.com/quarufus/Digital-Storytelling-Individual-Assignment/blob/main/dailies/Deliverable3/Screenshot%202023-06-02%20092324.png)
+
+![](https://github.com/quarufus/Digital-Storytelling-Individual-Assignment/blob/main/dailies/Deliverable3/Screenshot%202023-06-02%20092458.png)
 
 # Conclusions
 
