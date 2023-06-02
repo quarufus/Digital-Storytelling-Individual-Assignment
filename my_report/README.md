@@ -60,6 +60,11 @@
 
 # 3rd Deliverable 
 
+![](https://github.com/quarufus/Digital-Storytelling-Individual-Assignment/blob/main/dailies/Deliverable3/Screenshot%202023-06-02%20082626.png)
+![](https://github.com/quarufus/Digital-Storytelling-Individual-Assignment/blob/main/dailies/Deliverable3/Screenshot%202023-06-02%20091514.png)
+![](https://github.com/quarufus/Digital-Storytelling-Individual-Assignment/blob/main/dailies/Deliverable3/Screenshot%202023-06-02%20091529.png)
+![](https://github.com/quarufus/Digital-Storytelling-Individual-Assignment/blob/main/dailies/Deliverable3/Screenshot%202023-06-02%20091617.png)
+![](https://github.com/quarufus/Digital-Storytelling-Individual-Assignment/blob/main/dailies/Deliverable3/Screenshot%202023-06-02%20091703.png)
 
 # Conclusions
 
