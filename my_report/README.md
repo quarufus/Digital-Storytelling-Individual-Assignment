@@ -76,7 +76,7 @@
 
 https://github.com/quarufus/Digital-Storytelling-Individual-Assignment/assets/93532038/1676c244-5b14-427b-a345-c829ce5fb7f6
 
-Βίντεο σε καλλή ανάλυση [εδώ](https://github.com/quarufus/Digital-Storytelling-Individual-Assignment/blob/main/dailies/Deliverable3/Final_Project/test.mp4)
+Βίντεο σε καλλή ανάλυση [εδώ](https://github.com/quarufus/Digital-Storytelling-Individual-Assignment/blob/main/dailies/Deliverable3/Final_Project/test.mp4) και [εδώ](https://www.youtube.com/watch?v=46p5fzX4-xY)
 
 # Conclusions
 
