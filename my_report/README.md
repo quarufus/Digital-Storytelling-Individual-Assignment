@@ -60,6 +60,8 @@
 
 # 3rd Deliverable 
 
+Γεια το τελευταίο παραδοταίο αποφάσισα να χρησημοποιήσω το High Definition Render Pipeline (HDRP) της Unity ώστε να έχει γραφικά καλής ποιότητας το τελικό βίντεο. Μοντελοποιήσα σχεδόν όλα τα 3D μοντέλα και τα υλικά στο blender και έφτιαξα ένα υλικό στη Unity με το addon, Unity Shader Graph γιατι ήθελα να κινήται η υφή του γλυπτού που φένεται στις τελευτα
+
 ![](https://github.com/quarufus/Digital-Storytelling-Individual-Assignment/blob/main/dailies/Deliverable3/Screenshot%202023-06-02%20082626.png)
 ![](https://github.com/quarufus/Digital-Storytelling-Individual-Assignment/blob/main/dailies/Deliverable3/Screenshot%202023-06-02%20091514.png)
 ![](https://github.com/quarufus/Digital-Storytelling-Individual-Assignment/blob/main/dailies/Deliverable3/Screenshot%202023-06-02%20091529.png)
